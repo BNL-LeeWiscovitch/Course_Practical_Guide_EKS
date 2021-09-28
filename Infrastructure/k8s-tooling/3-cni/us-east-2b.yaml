@@ -4,6 +4,6 @@ metadata:
   name: us-east-2b
 spec: 
   securityGroups: 
-    - sg-07c4f9a2019856a25
-    - sg-0dc3458c11ef197dd
-  subnet: subnet-0fa22b7874907e8bc
+    - sg-0cdbafec57dfdc2aa
+    - sg-0fba464519739df9a
+  subnet: subnet-0e2ead361ddc78fda
